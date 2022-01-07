@@ -7,4 +7,5 @@ The Mobile Application has two pages, one for the product page which will displa
 
 ## Statue Shop App Final UI
 
-![Banner Statue](https://user-images.githubusercontent.com/38379100/147563800-ad5c27ba-2106-48fa-913e-88159daca964.png)
+![UI STATUE](https://user-images.githubusercontent.com/38379100/148509611-e6785c0a-4b1e-4aa6-9f08-e778c7f43763.png)
+
